@@ -8,9 +8,9 @@ subject,Temas,true
 location,Ubicación
 latitude,Latitud
 longitude,Longitud
-source,Source
+source,Fuente
 identifier,Source Identifier,,
-type,Type,
-format,Format0,
+type,Tipo de documento,
+format,Formato,
 rights,Rights,
 rightsstatement,Rights Statement,,true
