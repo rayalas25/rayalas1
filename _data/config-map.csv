@@ -1,5 +1,6 @@
 field,display_name,search
-date,Date,true
-creator,Creator,true
-subject,Subjects,true
-location,Location,true
+date,Fecha,true
+creator,Creador,true
+author,Autor, ture
+subject,Tema,true
+location,Ubicación,true
